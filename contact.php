@@ -3,7 +3,7 @@
 
 <head>
   <?php include('container/links.php'); ?>
-  <title>Contact Us | Ledcor Holdings</title>
+  <title>Contact | Ledcor Holdings</title>
 </head>
 <body class="home">
   <?php include('container/preloader.php'); ?>
