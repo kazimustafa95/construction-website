@@ -89,7 +89,7 @@
               </div>
               <h3 class="service-header"><a>Safety</a></h3>
               <div class="service-details">The safety of our employees, partners, and communities is our top priority. We maintain rigorous safety standards to protect everyone involved in our projects.</div>
-              <!-- <a href="#" class="service-read-more">Read More</a> -->
+              
             </div>
           </div><!-- .col -->
           <div class="col-lg-4 text-center">
@@ -99,7 +99,7 @@
               </div>
               <h3 class="service-header"><a>Community Engagement</a></h3>
               <div class="service-details">We actively engage with the communities we work in. We are always ready to support local initiatives and strive to make a positive impact in the society.</div>
-              <!-- <a href="#" class="service-read-more">Read More</a> -->
+              
             </div>
           </div><!-- .col -->
           <div class="col-lg-4 text-center">
@@ -109,7 +109,7 @@
               </div>
               <h3 class="service-header"><a>Integrity and Transparency</a></h3>
               <div class="service-details">We conduct our business with unwavering integrity, honesty, and transparency. We value the trust our clients place in us.<br><span style="color:transparent;">.</span><br><span style="color:transparent;">.</span></div>
-              <!-- <a href="#" class="service-read-more">Read More</a> -->
+              
             </div>
           </div><!-- .col -->
           <div class="col-lg-4 text-center">
@@ -119,7 +119,7 @@
               </div>
               <h3 class="service-header"><a>Fostering Innovative Culture</a></h3>
               <div class="service-details">Innovation is in our DNA. We constantly partner with research institutes and centers to seek new technologies and approaches. It helps us to enhance the efficiency, sustainability, and value of our projects.</div>
-              <!-- <a href="#" class="service-read-more">Read More</a> -->
+              
             </div>
           </div><!-- .col -->
         </div>
