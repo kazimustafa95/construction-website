@@ -54,48 +54,48 @@
       </section>
     </div>
 
-    <!-- Start Service Sectinn -->
+    <!-- Start Service Section Start -->
     <?php include('container/serviceSection.php'); ?>
-    <!-- End Service Sectinn -->
+    <!-- End Service Sectinn End-->
 
-    <!-- Start Working process -->
+    <!-- Start Working process Start-->
     <?php  include('container/workingprocess.php'); ?>
-    <!-- End Working process -->
+    <!-- End Working process End---->
 
-    <!-- Sectors -->
+    <!-- Sectors Start-->
     <?php  include('container/sectoer.php'); ?>
-    <!-- Sectors -->
+    <!-- Sectors End---->
 
 
-    <!-- Start Project Section -->
+    <!-- Start Project Section Start-->
     <?php include('container/latestprojects.php'); ?>
-    <!-- End Project Section -->
+    <!-- End Project Section End---->
 
   
-    <!-- Start Dilog Box -->
+    <!-- Start Dilog Box Start -->
     <?php include('container/dilogbox.php'); ?>
-    <!-- End Dilog Box -->
+    <!-- End Dilog Box End---->
 
-    <!-- Start Testimonial -->
+    <!-- Start Testimonial Start-->
     <?php include('container/testimonial.php'); ?>
-    <!-- End Testimonial -->
+    <!-- End Testimonial End---->
 
     <hr>
-    <!-- Start home-blog -->
+    <!-- Start home-blog Start-->
     <?php include('container/homeblog.php'); ?>
-    <!-- End home-blog -->
+    <!-- End home-blog End---->
 
  
-    <!-- Start Subscribe Section -->
+    <!-- Start Subscribe Section Start-->
     <?php include('container/newsletters.php'); ?>
     <!-- End Subscribe Section -->
-    </div><!-- .main-content -->
+    </div><!-- .main-content End-- -->
 
-  <!-- Start Footer Scetion -->
+  <!-- Start Footer Scetion Start-->
   <?php include('container/footersection.php'); ?>
-  <!-- End Footer Scetion -->
+  <!-- End Footer Scetion End--->
 
-  <!-- Scroll Up Button -->
+  <!-- Scroll Up Button Start-->
   <span class='scrollup' id="scrollup"></span>
 
   <!-- Scripts -->

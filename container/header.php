@@ -30,7 +30,7 @@
           <div class="site-branding">
             <!-- For Image Logo -->
             <a class='custom-logo-link' href='index.php'>
-              <img src="img/websizelogo.png" style="height:50px;" alt="Image" class="custom-logo">
+              <img src="#" style="height:50px;" alt="Image" class="custom-logo">
             </a>
           </div>
           <nav class="primary-nav">

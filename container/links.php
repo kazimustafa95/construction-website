@@ -17,8 +17,8 @@
   <link rel="stylesheet" href="css/style.css">
 
   <?php 
-    $web_num = "+1 58 755 71577";
-    $web_email = "info@ledcorholdings.com";
-    $web_emails = "support@ledcorholdings.com";
-    $web_add = "CN Tower, 10th Floor. 10004 104th Ave NW, Edmonton, AB T5J 0K1"; 
+    $web_num = "+1234567890";
+    $web_email = "info@mywebsbite.com";
+    $web_emails = "support@mywebsbite.com";
+    $web_add = "lorem ipsum address"; 
   ?>
