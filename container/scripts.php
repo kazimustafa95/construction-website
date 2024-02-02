@@ -1,0 +1,10 @@
+<script src="js/vendor/modernizr-3.6.0.min.js"></script>
+<script src="js/vendor/jquery-1.12.4.min.js"></script>
+<script src="js/owlCarousel.min.js"></script>
+<script src="js/parallax.min.js"></script>
+<script src="js/wow.min.js"></script>
+<script src="js/isotope.min.js"></script>
+<script src="js/tamjidCounter.min.js"></script>
+<script src="js/mailchimp.min.js"></script>
+<script src="js/text-slider.min.js"></script>
+<script src="js/main.js"></script>
